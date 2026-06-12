@@ -45,9 +45,3 @@ This repository contains a V2Ray configuration designed for stable, secure, and 
 3. متصل شوید و استفاده کنید.
 
 
----
-
-## ❤️ Credits | سازنده
-
-GitHub: https://github.com/V2byte
-

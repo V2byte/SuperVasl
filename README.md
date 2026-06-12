@@ -51,8 +51,3 @@ This repository contains a V2Ray configuration designed for stable, secure, and 
 
 GitHub: https://github.com/V2byte
 
----
-
-## 📄 License | مجوز
-
-MIT License
